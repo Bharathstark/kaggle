@@ -1,0 +1,10 @@
+https://www.alanzucconi.com/2017/04/06/forward-kinematics
+https://www.alanzucconi.com/2017/04/06/implementing-forward-kinematics
+https://www.alanzucconi.com/2017/04/10/gradient-descent
+https://www.alanzucconi.com/2017/04/10/robotic-arms
+http://static.o3n.org/demo/o3nSimpleHumanoidFootIK/index.html
+http://static.o3n.org/demo/anyik3footlook/index.html
+https://cseweb.ucsd.edu/classes/sp16/cse169-a/slides/CSE169_08.pdf
+https://cseweb.ucsd.edu/classes/sp16/cse169-a/slides/CSE169_09.pdf
+
+ 
